@@ -1,7 +1,3 @@
-#Daniel Johnson
-#SID: 11366169
-#Assingment: HW3 Problem 2: Array
-
 .text
     main:
     #greatest value

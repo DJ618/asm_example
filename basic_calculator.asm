@@ -1,7 +1,3 @@
-#Daniel Johnson
-#SID: 11366169
-#Assingment: HW3 Problem 1: Basic calculator
-
 .text
     main:
     #display instructions
